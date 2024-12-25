@@ -1,0 +1,143 @@
+[
+    {
+      "fname": "John",
+      "lname": "Smith",
+      "email": "1234567@ub.edu.ph",
+      "username": "JohnSmith",
+      "password": "aX2d!9Kw"
+    },
+    {
+      "fname": "Alice",
+      "lname": "Johnson",
+      "email": "7654321@ub.edu.ph",
+      "username": "AliceJohnson",
+      "password": "E@b5nHg3"
+    },
+    {
+      "fname": "Michael",
+      "lname": "Williams",
+      "email": "2345678@ub.edu.ph",
+      "username": "MichaelWilliams",
+      "password": "7tJs$2Hp"
+    },
+    {
+      "fname": "Sophia",
+      "lname": "Jones",
+      "email": "8765432@ub.edu.ph",
+      "username": "SophiaJones",
+      "password": "pS8d#L2m"
+    },
+    {
+      "fname": "David",
+      "lname": "Brown",
+      "email": "3456789@ub.edu.ph",
+      "username": "DavidBrown",
+      "password": "Fg5t!wLp"
+    },
+    {
+      "fname": "Emma",
+      "lname": "Davis",
+      "email": "9876543@ub.edu.ph",
+      "username": "EmmaDavis",
+      "password": "tR3@7zQf"
+    },
+    {
+      "fname": "James",
+      "lname": "Miller",
+      "email": "4567890@ub.edu.ph",
+      "username": "JamesMiller",
+      "password": "9Qd#x8Er"
+    },
+    {
+      "fname": "Olivia",
+      "lname": "Wilson",
+      "email": "1029384@ub.edu.ph",
+      "username": "OliviaWilson",
+      "password": "L#r8Bz2A"
+    },
+    {
+      "fname": "William",
+      "lname": "Moore",
+      "email": "4839201@ub.edu.ph",
+      "username": "WilliamMoore",
+      "password": "9dTk1n!A"
+    },
+    {
+      "fname": "Ava",
+      "lname": "Taylor",
+      "email": "5678901@ub.edu.ph",
+      "username": "AvaTaylor",
+      "password": "uG1m$Ew2"
+    },
+    {
+      "fname": "Benjamin",
+      "lname": "Anderson",
+      "email": "1982734@ub.edu.ph",
+      "username": "BenjaminAnderson",
+      "password": "Hq7e#sZ3"
+    },
+    {
+      "fname": "Mia",
+      "lname": "Thomas",
+      "email": "6748392@ub.edu.ph",
+      "username": "MiaThomas",
+      "password": "T5o@2zXw"
+    },
+    {
+      "fname": "Samuel",
+      "lname": "Jackson",
+      "email": "8392017@ub.edu.ph",
+      "username": "SamuelJackson",
+      "password": "aJ8s$Dp4"
+    },
+    {
+      "fname": "Isabella",
+      "lname": "White",
+      "email": "1928374@ub.edu.ph",
+      "username": "IsabellaWhite",
+      "password": "wJ3t!BzQ"
+    },
+    {
+      "fname": "Daniel",
+      "lname": "Harris",
+      "email": "5738291@ub.edu.ph",
+      "username": "DanielHarris",
+      "password": "P@9sL3rR"
+    },
+    {
+      "fname": "Liam",
+      "lname": "Walker",
+      "email": "liam.walker@gmail.com",
+      "username": "LiamWalker",
+      "password": "T!g6pXf8"
+    },
+    {
+      "fname": "Charlotte",
+      "lname": "Adams",
+      "email": "charlotte.adams@gmail.com",
+      "username": "CharlotteAdams",
+      "password": "zR7pQ@kM"
+    },
+    {
+      "fname": "Ethan",
+      "lname": "Davis",
+      "email": "ethan.davis@gmail.com",
+      "username": "EthanDavis",
+      "password": "wL9y@Np5"
+    },
+    {
+      "fname": "Grace",
+      "lname": "Morris",
+      "email": "grace.morris@gmail.com",
+      "username": "GraceMorris",
+      "password": "H@7wJ9dF"
+    },
+    {
+      "fname": "Lucas",
+      "lname": "Gonzalez",
+      "email": "lucas.gonzalez@gmail.com",
+      "username": "LucasGonzalez",
+      "password": "Q2hT#kP4"
+    }
+  ]
+  
